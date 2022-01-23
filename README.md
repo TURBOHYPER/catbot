@@ -8,16 +8,16 @@
 ```
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.postimg.cc/wjnR8sT0/TOXIC-BOT-LOGO.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/Basilser-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/TURBO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/TURBOHYPER"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">basilser</a> to make it public
+Project created by <a href="https://github.com/TURBOHYPER">TURBO</a> to make it public
     <br>
        | © |
         Reserved |
@@ -109,9 +109,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer one and only 
   <div align="center">
     
-  [![Basilser](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) |   
+  [![TURBO](https://github.com/TURBOHYPER.png?size=100)](https://github.com/TURBOHYPER) |   
 ----|
-[Basilser](https://github.com/itsmebasil0)  | 
+[Basilser](https://github.com/TURBOHYPER)  | 
 Base, Bug Fixes, Modules | Modifiying  as   public
 
 ## License
