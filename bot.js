@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Catbot working!')
+            chalk.green.bold('✅ TOXIC BOT working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -180,7 +180,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴡᴏʀᴋɪɴɢ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TOXIC BOT ᴡᴏʀᴋɪɴɢ*', MessageType.text);
                 }
 
             }
@@ -206,7 +206,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴡᴏʀᴋɪɴɢ*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*TOXIC BOT ᴡᴏʀᴋɪɴɢ*', MessageType.text);
                 }
             }
             else {
@@ -229,7 +229,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ ᴡᴏʀᴋɪɴɢ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TOXIC BOT ᴡᴏʀᴋɪɴɢ*', MessageType.text);
                 }
             }
         }
@@ -396,7 +396,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*ᴄᴀᴛʙᴏᴛ_🐱_[error]*' +
+                                await conn.sendMessage(conn.user.jid, '*TOXIC_🐱_[error]*' +
                                     '\n\n*🍂 ' + error + '*\n' 
                                     , MessageType.text);
                             }
